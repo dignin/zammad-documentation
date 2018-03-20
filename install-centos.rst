@@ -49,6 +49,7 @@ Go to http://localhost and you'll see:
 
 * "Welcome to Zammad!", there you need to create your admin user and invite other agents.
 
+**Note** You should be sure that no other webserver is blocking port 80. Otherwise, thsi will not wark.
 
 Change your webserver configuration (non localhost connections):
 ================================================================
